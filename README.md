@@ -1,4 +1,4 @@
-# WID_Datathon Project
+# WIDs Datathon Project
 
 ![WiDs](./Images/WIDs.png)
 
